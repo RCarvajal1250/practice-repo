@@ -1,14 +1,14 @@
-## First Name Last Name
+## Rominna Carvajal
 
-### Term Year 
+### FA 2021
 
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Course 1
+- Pre-Cal: Mathematics for Calculus
 
-- Course 2
+- Intro to Coding Using Python
 
-- Course 3
+- Intro to Data Analysis
 
 - Course 4
 
@@ -16,12 +16,12 @@ DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) cu
 
 I am _passionate about_: 
 
-- Thing 1
+- Books
 
-- Thing 2
+- Animation/Drawing
 
-- Thing 3 as shown in this website <https://www.floridapoly.edu>
+- Data Science as shown in this website <https://www.floridapoly.edu>
 
 ***
 
-> Last modified: YYYY/MM/DD
+> Last modified: 2021/09/02
