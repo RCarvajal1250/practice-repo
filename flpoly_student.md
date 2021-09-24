@@ -10,7 +10,12 @@ DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) cu
 
 - Intro to Data Analysis
 
-- Course 4
+| Prefix  | Number | Name                                      | Credits |
+|:--------|:-------|:------------------------------------------|:--------|
+| **COP** |**2073**| _Introduction to Data-Science_            | 3       |
+| **MAC** |**1147**| _Pre-Calculus_                            | 3       |
+| **COP** |**2034**| _Introduction to Programming using Python_| 3       |
+| **ISL** |**1901**| _Foundation for Academic Success_         | 0       |
 
 **Hobbies:**
 
